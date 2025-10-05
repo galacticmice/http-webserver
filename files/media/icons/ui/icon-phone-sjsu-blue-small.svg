@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Contact Us</title>
+    <defs></defs>
+    <g id="Footer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02_Footer_Desktop" transform="translate(-39.000000, -568.000000)" fill="#0055a2">
+            <g id="Group-2" transform="translate(39.000000, 439.000000)">
+                <path d="M1,129 C0.447,129 0,129.447 0,130 C0,139.388 7.612,147 17,147 C17.553,147 18,146.553 18,146 L18,142.5 C18,141.948 17.553,141.501 17,141.501 C15.752,141.501 14.552,141.3 13.428,140.932 C13.328,140.9 13.223,140.884 13.119,140.884 C12.864,140.884 12.608,140.982 12.413,141.177 L10.212,143.38 C7.38,141.94 5.065,139.625 3.623,136.794 L5.823,134.587 C6.098,134.313 6.179,133.918 6.068,133.572 C5.7,132.447 5.499,131.247 5.499,130 C5.499,129.447 5.052,129 4.5,129 L1,129 Z" id="Imported-Layers"></path>
+            </g>
+        </g>
+    </g>
+</svg>

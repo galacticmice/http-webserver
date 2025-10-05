@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="14px" viewBox="0 0 21 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Website Menu</title>
+    <defs></defs>
+    <g id="Local-Navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01_LocalNavigation_Mobile" transform="translate(-328.000000, -112.000000)" fill="#FFFFFF">
+            <path d="M328,126 L349,126 L349,123.666667 L328,123.666667 L328,126 L328,126 Z M328,120.166667 L349,120.166667 L349,117.833333 L328,117.833333 L328,120.166667 L328,120.166667 Z M328,112 L328,114.333333 L349,114.333333 L349,112 L328,112 L328,112 Z" id="hamburger-menu-icon"></path>
+        </g>
+    </g>
+</svg>

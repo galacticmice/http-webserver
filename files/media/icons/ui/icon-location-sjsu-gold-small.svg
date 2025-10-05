@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="15px" viewBox="0 0 11 15" version="1.1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Event Location</title>
+    <defs></defs>
+    <g id="Calendar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01_Calendar_Mobile" transform="translate(-24.000000, -571.000000)" fill="#e5a823">
+            <g id="calendar">
+                <g id="block-1" transform="translate(0.000000, 219.000000)">
+                    <g id="copy" transform="translate(24.000000, 142.000000)">
+                        <path d="M0,215.25 C0,219.1875 5.5,225 5.5,225 C5.5,225 11,219.1875 11,215.25 C11,212.3475 8.54071429,210 5.5,210 C2.45928571,210 0,212.3475 0,215.25 Z M5.5,217.125 C4.41571429,217.125 3.53571429,216.285 3.53571429,215.25 C3.53571429,214.215 4.41571429,213.375 5.5,213.375 C6.58428571,213.375 7.46428571,214.215 7.46428571,215.25 C7.46428571,216.285 6.58428571,217.125 5.5,217.125 L5.5,217.125 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Event Time</title>
+    <defs></defs>
+    <g id="Calendar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01_Calendar_Mobile" transform="translate(-24.000000, -548.000000)" fill="#e5a823" fill-rule="nonzero">
+            <g id="calendar">
+                <g id="block-1" transform="translate(0.000000, 219.000000)">
+                    <g id="copy" transform="translate(24.000000, 142.000000)">
+                        <g id="if_time-24_103169" transform="translate(0.000000, 187.000000)">
+                            <path d="M6,0 C2.68667167,0 0,2.6865 0,6 C0,9.3135 2.68667167,12 6,12 C9.31382846,12 12,9.3135 12,6 C12,2.6865 9.31382846,0 6,0 Z M8.20655164,8.3545 L8.03150788,8.5295 C7.88597149,8.675 7.6404101,8.682 7.48737184,8.544 L5.2268067,6.5665 C5.07276819,6.429 4.95623906,6.1475 4.96624156,5.9415 L5.17579395,2.3745 C5.1867967,2.168 5.36434109,2 5.57089272,2 L5.81745436,2 C6.024006,2 6.20105026,2.168 6.21105276,2.374 L6.38259565,5.341 C6.39309827,5.5475 6.51362841,5.841 6.65016254,5.9955 L8.22255564,7.8095 C8.35908977,7.964 8.35258815,8.209 8.20655164,8.3545 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
