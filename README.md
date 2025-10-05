@@ -7,6 +7,6 @@ A lite webserver that serves all files of a folder
 ```console
 python server.py -document_root files -port 8080
 ```
-python3 for Mac\
+_python3 for Mac_
 
-Once server has started, open [localhost:8080](localhost:8080).\
+Once server has started, open [localhost:8080](http://localhost:8080).
